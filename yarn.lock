@@ -2698,10 +2698,15 @@ caniuse-lite@^1.0.30000899:
   resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30000899.tgz#6febdbbc388a7982f620ee0e3d09aab0c061389e"
   integrity sha512-enC3zKfUCJxxwvUIsBkbHd54CtJw1KtIWvrK0JZxWD/fEN2knHaai45lndJ4xXAkyRAPyk60J3yagkKDWhfeMA==
 
-caniuse-lite@^1.0.30000905, caniuse-lite@^1.0.30000906:
+caniuse-lite@^1.0.30000905:
   version "1.0.30000906"
   resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30000906.tgz#7c44e498a2504f7a5db3b4f91285bbc821157a77"
   integrity sha512-ME7JFX6h0402om/nC/8Lw+q23QvPe2ust9U0ntLmkX9F2zaGwq47fZkjlyHKirFBuq1EM+T/LXBcDdW4bvkCTA==
+
+caniuse-lite@^1.0.30000907:
+  version "1.0.30000907"
+  resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30000907.tgz#0b9899bde53fb1c30e214fb12402361e02ff5c42"
+  integrity sha512-No5sQ/OB2Nmka8MNOOM6nJx+Hxt6MQ6h7t7kgJFu9oTuwjykyKRSBP/+i/QAyFHxeHB+ddE0Da1CG5ihx9oehQ==
 
 capture-exit@^1.2.0:
   version "1.2.0"
@@ -3088,10 +3093,10 @@ consola@^2.0.7:
     std-env "^2.1.0"
     string-width "^2.1.1"
 
-consola@^2.2.2:
-  version "2.2.2"
-  resolved "https://registry.npmjs.org/consola/-/consola-2.2.2.tgz#02a1df59b63746211d5cff1df436a1b2321cc716"
-  integrity sha512-lrJmVXiQ3LD2unImvgfhcjXRqg81sKjfzPVoQNrl/17BNc5Z1RGFYpexlBavXUMdFfBZlVJgjhosQa6aCHNOVg==
+consola@^2.2.3:
+  version "2.2.3"
+  resolved "https://registry.npmjs.org/consola/-/consola-2.2.3.tgz#567e59fe80a0d0330747e649e3e8405c1d007369"
+  integrity sha512-4xJ3/9xxZhiBpihl1yzVxKFnii5RPaBmcPgBfGh3nc95DhpAym2VRJi3EpgMLvoLWHds7qV6ViVCoI8Nw4khWA==
   dependencies:
     chalk "^2.4.1"
     dayjs "^1.7.7"
